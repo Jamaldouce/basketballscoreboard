@@ -1,0 +1,14 @@
+{
+  "name": "Scrim-s07sk26lmp",
+  "description": "https://scrimba.com/s07sk26lmp/head",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
